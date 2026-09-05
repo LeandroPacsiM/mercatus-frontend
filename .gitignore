@@ -16,6 +16,17 @@ dist-ssr
 .playwright-mcp/
 imgshopify/
 
+# Prototipos y docs fuera del repo (quedan en disco)
+hola.html
+p1.html
+p2.html
+p3.html
+techstore-pro.html
+demo_tracking.cjs
+docs/
+design-system/
+.opencode/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
