@@ -1,0 +1,32 @@
+.tracking-map__wrap {
+  margin-top: 8px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  background: var(--bg-card);
+}
+
+.tracking-map__status {
+  padding: 8px 12px;
+  font-size: 13px;
+  color: var(--text);
+  background: var(--bg-card);
+  border-bottom: 1px solid var(--border);
+}
+
+.tracking-map {
+  height: 280px;
+  width: 100%;
+}
+
+.tracking-icon {
+  background: transparent;
+  border: none;
+}
+
+.tracking-pin {
+  font-size: 22px;
+  line-height: 30px;
+  text-align: center;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.4));
+}

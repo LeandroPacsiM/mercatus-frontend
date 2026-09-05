@@ -1,0 +1,15 @@
+# Todo lo que Vercel NO necesita subir (el repo lleva más)
+.opencode/
+design-system/
+docs/
+imgshopify/
+.playwright-mcp/
+*.log
+hola.html
+p1.html
+p2.html
+p3.html
+techstore-pro.html
+demo_tracking.cjs
+components.json
+README.md
